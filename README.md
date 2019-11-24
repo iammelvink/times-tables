@@ -4,7 +4,7 @@
 
 ![Times Tables](timestables.gif)
 
-Find out how to build a simple TicTacToe game. Author, Melvin Kisten tackles a ListView and a Seekbar. 
+Find out how to build a simple Times Tables app. Author, Melvin Kisten tackles a ListView and a Seekbar. 
 
 ## Instructions
 1. Make sure you have these installed
